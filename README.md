@@ -45,3 +45,12 @@ Sea freight:
 - Best for replenishment
 
 Many Amazon sellers use a hybrid strategy.
+## Is DDP Shipping Legal in Saudi Arabia?
+
+DDP is legal when:
+- VAT & duties are properly declared
+- Licensed importer is used
+- SABER compliance is checked
+
+Most risks come from non-compliant execution, not from DDP itself.
+
